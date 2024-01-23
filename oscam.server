@@ -3,7 +3,7 @@
 
 [reader]
 label                         = lower_card
-enable                        = 0
+enable                        = 1
 protocol                      = internal
 device                        = /dev/sci0
 detect                        = cd
