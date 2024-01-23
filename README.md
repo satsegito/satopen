@@ -1,2 +1,2 @@
 # satopen
-sat-opena-help
+sat-enigma-config-help
